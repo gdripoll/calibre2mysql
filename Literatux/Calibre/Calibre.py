@@ -8,15 +8,17 @@ import logging.config
 
 class Calibre:
 	def __init__(self, config):
+		log = '<Calibre:__init__> %s'
 		self._config = config
-		print(self._config)
 		self._conn = None
+		logging.debug(log, 'init')
 		self._conn = self._open()
+		logging.debug(log, 'connected to %s' % self._config['name'])
 
 	def _open(self):
+		log = '<Calibre:__init__> %s'
 		if self._conn is not None:
 			self._close()
-		print(self._config)
 		if 'path' in self._config.keys():
 			try:
 				return sqlite3.connect('%s/metadata.db' % self._config['path'])

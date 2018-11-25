@@ -4,6 +4,10 @@
     "autores_a": {
       "name": "autores-a",
       "path": "/pandora2/LectioLocus/autores/a"
+    },
+    "autores_b": {
+      "name": "autores-b",
+      "path": "/pandora2/LectioLocus/autores/b"
     }
   },
   "mysql": {
