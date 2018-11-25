@@ -1,0 +1,12 @@
+{
+  "name": "lectiolocus",
+  "calibre": {
+    "autores_a": {
+      "name": "autores-a",
+      "path": "/pandora2/LectioLocus/autores/a"
+    }
+  },
+  "mysql": {
+    
+  }
+}
