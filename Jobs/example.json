@@ -1,0 +1,118 @@
+{
+  "name": "example",
+  "calibre": {
+    "autores_a": {
+      "name": "autores-a",
+      "path": "./example/autores/a"
+    },
+    "autores_b": {
+      "name": "autores-b",
+      "path": "./example/autores/b"
+    },
+    "autores_c": {
+      "name": "autores-c",
+      "path": "./example/autores/c"
+    },
+    "autores_d": {
+      "name": "autores-d",
+      "path": "./example/autores/d"
+    },
+    "autores_e": {
+      "name": "autores-e",
+      "path": "./example/autores/e"
+    },
+    "autores_f": {
+      "name": "autores-f",
+      "path": "./example/autores/f"
+    },
+    "autores_g": {
+      "name": "autores-g",
+      "path": "./example/autores/g"
+    },
+    "autores_h": {
+      "name": "autores-h",
+      "path": "./example/autores/h"
+    },
+    "autores_i": {
+      "name": "autores-i",
+      "path": "./example/autores/i"
+    },
+    "autores_j": {
+      "name": "autores-j",
+      "path": "./example/autores/j"
+    },
+    "autores_k": {
+      "name": "autores-k",
+      "path": "./example/autores/k"
+    },
+    "autores_l": {
+      "name": "autores-l",
+      "path": "./example/autores/l"
+    },
+    "autores_m": {
+      "name": "autores-m",
+      "path": "./example/autores/m"
+    },
+    "autores_n": {
+      "name": "autores-n",
+      "path": "./example/autores/n"
+    },
+    "autores_o": {
+      "name": "autores-o",
+      "path": "./example/autores/o"
+    },
+    "autores_p": {
+      "name": "autores-p",
+      "path": "./example/autores/p"
+    },
+    "autores_q": {
+      "name": "autores-q",
+      "path": "./example/autores/q"
+    },
+    "autores_r": {
+      "name": "autores-r",
+      "path": "./example/autores/r"
+    },
+    "autores_s": {
+      "name": "autores-s",
+      "path": "./example/autores/s"
+    },
+    "autores_t": {
+      "name": "autores-t",
+      "path": "./example/autores/t"
+    },
+    "autores_u": {
+      "name": "autores-u",
+      "path": "./example/autores/u"
+    },
+    "autores_v": {
+      "name": "autores-v",
+      "path": "./example/autores/v"
+    },
+    "autores_w": {
+      "name": "autores-w",
+      "path": "./example/autores/w"
+    },
+    "autores_x": {
+      "name": "autores-x",
+      "path": "./example/autores/x"
+    },
+    "autores_y": {
+      "name": "autores-y",
+      "path": "./example/autores/y"
+    },
+    "autores_z": {
+      "name": "autores-z",
+      "path": "./example/autores/z"
+    }
+  },
+  "mysql": {
+    "salida": {
+      "user": "root",
+      "password": "salaka",
+      "host": "ripoll.com.ar",
+      "database": "calibre2mysql",
+      "raise_on_warnings": true
+    }
+  }
+}
